@@ -6,8 +6,6 @@
 
 ### Links and Resources
 
- - [PR](https://github.com/Mariko-401-AdvancedJs/basic-express-server/pulls)
-
  - Simon,Nathan,Matt 
 
 [DOCUMENTATION USED](https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)
