@@ -23,4 +23,9 @@
  - [x] Configure S3 to Publish events
  - [ ] Upload image in S3 console and verify thumbnail added to target bucket
 
-I had difficulties mostly with trying to figure out why some of the commands used in CLI would not accept my secret id key. The biggest issue is not being able to upload an image directly in the S3 Console and successfully trigger the lambda function.
+I had difficulties mostly with trying to figure out why some of the commands used in CLI would not accept my secret id key. ~~The biggest issue is not being able to upload an image directly in the S3 Console and successfully trigger the lambda function.~~
+
+**image successfully resized**
+
+![image](original-resize.png)
+
